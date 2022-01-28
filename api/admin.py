@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Account, Accrual, Transfer, Debeting
+from .models import Account, Accrual, Debeting, Transfer
 
 EMPTY_VALUE = '-пусто-'
 
