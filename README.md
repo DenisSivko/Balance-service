@@ -18,7 +18,7 @@ docker -v
 #### Шаг 2. Клонируйте репозиторий себе на компьютер
 Введите команду:
 ```bash
-git clone https://github.com/DenisSivko/Balance-service.git
+git clone https://github.com/DenisSivko/balance-service.git
 ```
 
 #### Шаг 3. Создайте в клонированной директории файл .env
